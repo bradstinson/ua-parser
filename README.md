@@ -1,7 +1,9 @@
-CodeIgniter-UAParser
+Codeigniter-UAParser
 ================
 
-CodeIgniter-UAParser is a CodeIgniter library which makes it easy to utilize the the browser-detection library ua-parser-php (https://github.com/tobie/ua-parser/tree/master/php).
+Codeigniter-UAParser is a Codeigniter library which makes it easy to utilize the browser-detection library "ua-parser-php". (https://github.com/tobie/ua-parser/tree/master/php)
+
+I cannot take any credit for the original library, I just wrapped it up to make it easier to use within Codeigniter. 
 
 Usage
 -----
