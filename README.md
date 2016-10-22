@@ -1,5 +1,7 @@
-Codeigniter-UAParser
+Codeigniter-UAParser [DEPRECATED]
 ================
+
+NOTE: I've not used this code in about 3 years, and will no longer offer any type of support. However, feel free to use this code at your own risk.
 
 Codeigniter-UAParser is a Codeigniter library which makes it easy to utilize the browser-detection library "ua-parser-php". (https://github.com/tobie/ua-parser/tree/master/php)
 
